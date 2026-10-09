@@ -1,0 +1,4 @@
+CONNECT alice s1
+PUBLISH alice hi
+DISCONNECT alice
+PUBLISH alice bye

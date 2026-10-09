@@ -1,0 +1,5 @@
+NOW 0
+PING hello
+NOW 5
+PONG hello
+CHECK 30

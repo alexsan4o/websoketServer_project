@@ -1,0 +1,62 @@
+{
+  "course": "build-websocket-server",
+  "language": "cpp",
+  "language_id": 54,
+  "entrypoint": "main.cpp",
+  "version": 1,
+  "content_hash": "410cd4ceff2f8300",
+  "lessons": [
+    {
+      "slug": "why-ws",
+      "tests_hash": "adfc374c6c53"
+    },
+    {
+      "slug": "handshake",
+      "tests_hash": "5c0cb9b7f5ef"
+    },
+    {
+      "slug": "frame-format",
+      "tests_hash": "e032a2b89669"
+    },
+    {
+      "slug": "masking",
+      "tests_hash": "2bbc73d94514"
+    },
+    {
+      "slug": "fragmentation",
+      "tests_hash": "33ee59c6db5e"
+    },
+    {
+      "slug": "ping-pong",
+      "tests_hash": "77c18cf1bb75"
+    },
+    {
+      "slug": "close",
+      "tests_hash": "76f6c33b6407"
+    },
+    {
+      "slug": "subprotocols",
+      "tests_hash": "6cec995ff9cc"
+    },
+    {
+      "slug": "scaling",
+      "tests_hash": "6832dba8d39a"
+    },
+    {
+      "slug": "full-ws",
+      "tests_hash": "1e15be68d93f"
+    },
+    {
+      "slug": "permessage-deflate",
+      "tests_hash": "58f49c52c651"
+    },
+    {
+      "slug": "backpressure",
+      "tests_hash": "3d3fd70bde3b"
+    },
+    {
+      "slug": "autobahn-conformance",
+      "tests_hash": "3e4985c8a281"
+    }
+  ]
+}

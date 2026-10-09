@@ -1,0 +1,3 @@
+CTRL opcode=CLOSE payload=03e8
+ERR closed
+closing
